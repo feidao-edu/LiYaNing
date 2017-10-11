@@ -1,0 +1,17 @@
+{
+	"name": "new",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.22.0",
+		"express": "^4.16.2",
+		"typescript": "^2.6.0-dev.20171007"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"author": "",
+	"license": "ISC"
+}
